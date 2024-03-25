@@ -1,5 +1,7 @@
 # C-OPENGL-Task
 
+Open project folder in Visual Studio, cmake should load every dependencies.
+
 # Task 3
 
 To move triangle1 hold left ctrl and use WASD to move, and left and right arrow to rotate.
